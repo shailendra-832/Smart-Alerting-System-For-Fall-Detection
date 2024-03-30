@@ -1,0 +1,50 @@
+.linkinput{
+    width: 60%;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.5);
+    margin :50px;
+    margin-left: 250px;
+    height: 450px;
+}
+.linkinput .aboutus .top{
+    background-color: aqua;
+}
+.linkinput .aboutus h1{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.linkinput .aboutus .bottom{
+    display: flex;
+}
+.linkinput .aboutus img{
+    height: 300px;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.names{
+    font-size: 22px;
+    margin-left: 90px;
+    margin-top: 50px;
+    
+}
+.names ul li{
+    font-family: cursive;
+}
+.names ul{
+    padding-bottom: 20px;
+}
+.names a{
+    margin-left: -40px;
+    font-family: cursive;
+}
+.bottom1 h3{
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+}
